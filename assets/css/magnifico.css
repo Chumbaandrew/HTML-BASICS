@@ -1,0 +1,24 @@
+h1{
+    color: cornflowerblue;
+    text-align: center;
+}
+h2{
+    color: #00ff19;
+    text-align: center;
+}
+ol{
+    color: coral;
+    text-align: center;
+    font-family: "JetBrains Mono";
+    list-style-position: inside;
+}
+ul{
+    color: gray;
+    text-align: center;
+    font-family: "Century Schoolbook L";
+
+}
+body{
+    background-color: black;
+    font-size: 20px;
+}
